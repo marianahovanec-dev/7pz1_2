@@ -47,4 +47,6 @@ int main() {
 
     return 0;
 }
-<img width="1280" height="611" alt="pz1_2_sec1" src="https://github.com/user-attachments/assets/429274a0-3970-454d-be73-f21323f3c8ec" />
+
+
+<img width="1276" height="609" alt="image" src="https://github.com/user-attachments/assets/af7f2adb-3913-4bf4-8b21-a5b7d6f187c8" />
